@@ -15,7 +15,6 @@
         
         <input type="submit" name="login" value="Login">
     </form>
-    <p>Create Account? <a href="index.php">Register here</a></p>
 </body>
 </html>
 <?php
